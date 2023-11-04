@@ -1,0 +1,80 @@
+/* Estilos generales */
+@font-face {
+    font-family: Amiko;
+    src: url("Amiko-SemiBold.ttf");
+}
+
+body {
+    font-family: Amiko;
+    line-height: 2;
+    width: 1000px;
+    /* to centre page on screen*/
+    margin-left:auto;
+    margin-right: auto;
+    background-color: rgb(39, 39, 39);
+    background: radial-gradient(#ffffff, #494949);
+}
+body h2{
+    border-bottom: 3px dashed;
+    display: inline-block;
+    padding-bottom: 15px;
+}
+   
+header{
+    color: #ffffff;
+    padding: 20px;
+    height: 200px;
+    display: flex;
+    max-width: 830px; 
+    justify-content: left;
+    align-content:center;
+    margin-left:auto;
+    margin-right: auto;
+    background-image: url(code.png);
+    background-size:120%;
+    background-position:center;
+    background-position-x: center;
+    line-height:30px;
+    border: 1px inset #565656;
+}
+header h1{
+    font-size: 40px;
+}
+
+img{
+    padding-right: 40px;
+}
+
+
+.whiteSide{
+    background-color: #ffffff;
+    padding: 40px;
+    color: #565656;
+    border:1px inset;
+    
+}
+.graySide{
+    background-color: #565656;
+    padding: 40px;
+    color: white;
+}
+.box{
+    display: flex;
+    justify-content: center;
+   
+}
+.title{
+    justify-content: left;
+}
+.adress:hover{
+    color: rgb(172, 172, 172);
+}
+.phone:hover{
+    color: rgb(172, 172, 172);
+}
+.email:hover{
+    color: rgb(172, 172, 172);
+}
+
+
+
