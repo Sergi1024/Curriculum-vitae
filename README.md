@@ -6,3 +6,5 @@ This specific project is single paged, aiming for a formal design with
 dark colors and a double column structure for the text. In reation to the 
 typography I've choosen a font called "Amiko", it's easy and comfortable 
 to read and fits nicely with the theme. 
+
+LINK TO FIGMA : https://www.figma.com/file/xdCfzOBFB4jd5SQdA9CsLX/Untitled?type=design&node-id=0%3A1&mode=design&t=4d9jWPeoZr2USJgy-1
